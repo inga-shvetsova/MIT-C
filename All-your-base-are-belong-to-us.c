@@ -2,7 +2,7 @@
   Created by Inga Shvetsova, 10/05/2024 */
 
 #include <stdio>
-#define MSG1 "All your base are belong to us!"
+#define MSG1 "All your base are belong to us!" /* Preprocessor macro */
 
 int main(void) {
 
