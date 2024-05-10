@@ -1,2 +1,2 @@
 # MIT-C
-Practical Programming in C
+6.087: Practical Programming in C
